@@ -5,6 +5,9 @@ solarized dark theme setup for Xfce desktop manager.
 
 More info:
 
+Original Numix Solarized Source [numix-solarized](http://bitterologist.deviantart.com/art/Numix-Solarized-417575928)
+
+Solarized Colorscheme repo [awesome-colorscheme-solarized](https://github.com/altercation/solarized)
 
 screenshot1
 
