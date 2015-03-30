@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix Solarized
+Comment=A modern flat theme with a Solarized twist
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Numix Solarized
+MetacityTheme=Numix Solarized
+ButtonLayout=:minimize,maximize,close
