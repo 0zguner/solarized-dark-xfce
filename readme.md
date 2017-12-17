@@ -1,6 +1,8 @@
-#Solarized Dark xfce & xfce-terminal themes
+# Solarized Dark xfce & xfce-terminal themes
 
 solarized dark theme setup for Xfce desktop manager.
+
+icons: [numix-square](https://satya164.deviantart.com/art/Numix-Square-icons-446392650)
 
 
 More info:
